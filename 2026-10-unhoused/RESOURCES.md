@@ -1,21 +1,23 @@
 # Resources
 
-Shared links and reference material collected by the Saturday 1pm crew. Source: [Rogue Raise SAT 1pm crew](https://docs.google.com/document/d/17W6tKFRqK3c_lsziXXl7nCueyEerjTXgF3T8zIZgfvQ/edit) (Google Doc).
+Shared links and reference material collected by the Saturday 1pm crew. Source: [Rogue Raise SAT 1pm crew](https://docs.google.com/document/d/17W6tKFRqK3c_lsziXXl7nCueyEerjTXgF3T8zIZgfvQ/edit) (Google Doc; converted copy in [`notes/`](notes/2026-10-24-sat-1pm-crew.md)).
 
 ## Team Links
 
 | What | Link | Notes |
 | --- | --- | --- |
-| Common Table (Claude artifact) | <https://claude.ai/artifact/NE6tQ9XAfgQem8NTcPXuDe> | Shared by PJ Allen. |
-| Ashland Daily Help | <https://github.com/RVAILab/ashlanddailyhelp> | Private repo. Static PWA (`index.html`, `app.js`, `data.js`, service worker) described as "a community resource hub for Ashland and Jackson County." Has a resource directory plus a provider "pulse" view for reporting service events (meals served, showers, navigation encounters); the pulse data is explicitly fictional demo data. |
+| Common Table (Claude artifact) | <https://claude.ai/artifact/NE6tQ9XAfgQem8NTcPXuDe> | Shared by a team member. |
+| Ashland Daily Help | <https://github.com/RVAILab/ashlanddailyhelp> | Public repo. Static PWA (`index.html`, `app.js`, `data.js`, service worker) described as "a community resource hub for Ashland and Jackson County." Has a resource directory plus a provider "pulse" view for reporting service events (meals served, showers, navigation encounters); the pulse data is explicitly fictional demo data. |
 | Master spreadsheet | [Ashland Resources for Unhoused People](https://docs.google.com/spreadsheets/d/1-70Gp3q9vkxKxo5vLXFmGrnpjb8kGjNB_DmMnsMzqLQ/edit) | Source of truth for the directory below. Tabs: Start Here, Resource Directory, Needs Confirmation. |
 | Full transcript (Otter.ai) | <https://otter.ai/u/_PE83PlsR-zx_NyHN4mwghTZ8Yw> | Requires an Otter login to view. |
+| Resource Directory & AI Updates | [`notes/2026-10-24-resource-directory-and-ai-updates.md`](notes/2026-10-24-resource-directory-and-ai-updates.md) | Meeting notes on an AI agent that keeps the directory current from provider newsletters and websites. |
+| Provider tools design | [`provider-tools-design/`](provider-tools-design/README.md) | Design and tested Postgres schema for provider sign-up, service posting, counts and Community Pulse publishing in Ashland Daily Help. |
 
 ## Hotlines
 
 - **911:** immediate danger or a medical emergency.
 - **988:** Suicide & Crisis Lifeline (call or text). <https://988lifeline.org/>
-- **211:** local referrals for food, shelter and social services. Text your ZIP (`97520`) to `898211`, or search online at <https://www.211info.org/search/97520/>. Referral only; 211 does not reserve shelter beds.
+- **211:** local referrals for food, shelter and social services. Dial 211 or 866-698-6155 (Mon–Fri 8am–6pm), text your ZIP (`97520`) to `898211` (Mon–Fri 9am–5pm), or search online at <https://www.211info.org/search/97520/>. Referral only; 211 does not reserve shelter beds.
 - **Severe-weather shelter alerts:** text `97520SHELTER` to `888777`.
 
 ## First Contact
@@ -34,8 +36,8 @@ The tables below are condensed. Every column of every tab, including eligibility
 | --- | --- | --- | --- | --- |
 | [ACCESS pantry, First United Methodist Church](https://ohrahelps.org/additional-resources/) | 175 N Main St | Not published | Wed 2–4pm | Confirm |
 | [Ashland Community Food Bank](https://ohrahelps.org/additional-resources/) | 560 Clover Ln | 541-488-9544 | Mon–Fri and 3rd Sat 9:30am–12:30pm | Confirm |
-| [Ashland Community Peace Meal (Thursday)](https://sojwj.org/2026/02/03/were-all-coming-home-ashland-peace-meal-returns-to-pioneer-hall/) | Pioneer Hall | 541-841-8341; jason@sojwj.org | Thu 3:30pm (doors 3pm) | Reviewed |
-| [Ashland Community Peace Meal (Friday)](https://sojwj.org/2026/02/03/were-all-coming-home-ashland-peace-meal-returns-to-pioneer-hall/) | Lithia Park gazebo | 541-841-8341; jason@sojwj.org | Fri 3:30pm | Reviewed |
+| [Ashland Community Peace Meal (Thursday)](https://sojwj.org/2026/02/03/were-all-coming-home-ashland-peace-meal-returns-to-pioneer-hall/) | Pioneer Hall | 541-841-8341 | Thu 3:30pm (doors 3pm) | Reviewed |
+| [Ashland Community Peace Meal (Friday)](https://sojwj.org/2026/02/03/were-all-coming-home-ashland-peace-meal-returns-to-pioneer-hall/) | Lithia Park gazebo | 541-841-8341 | Fri 3:30pm | Reviewed |
 | [Monday Meals](https://www.211info.org/get-help/food/community-meals/) | Ashland Creek Park; Lithia Park bandshell | Ask OHRA | Mon: Creek Park 4:20pm, bandshell 4:40pm | Confirm |
 | [Rogue Food Unites mobile markets](https://ohrahelps.org/additional-resources/) | Rotating | See schedule online | Varies | Confirm |
 | [Uncle Food's Diner / Peace House](https://peacehouse.net/uncle-foods-diner/) | Trinity Episcopal parish hall (rear alley) | 541-482-9625 | Tue from 4:30pm | Confirm |

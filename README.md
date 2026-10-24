@@ -17,7 +17,7 @@ Two commitments guide every Raise:
 | --- | --- | --- | --- |
 | [`2026-10-unhoused/`](2026-10-unhoused/README.md) | Rogue Raise: The Unhoused | October 23–25, 2026 | [ashlanddailyhelp](https://github.com/RVAILab/ashlanddailyhelp) |
 
-Rogue Raise #01 focused on wildfire, with community partner Charisse Sydoriak of the Plant List Generator. It has no folder here.
+Rogue Raise #01 focused on wildfire, with the Plant List Generator as community partner. It has no folder here.
 
 ## Links
 

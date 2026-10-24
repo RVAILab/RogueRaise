@@ -40,3 +40,16 @@ The work pairs a first-person human story with a credible, defensible count.
 2. **Parallel build** over the weekend.
 3. **Presentations,** judged by real users on whether they would actually use the tool.
 4. **Ownership:** each project gets a named owner tied to stakeholders so it keeps getting used after the event.
+
+## In This Folder
+
+| Path | What it is | Source |
+| --- | --- | --- |
+| [`RESOURCES.md`](RESOURCES.md) | Team links, hotlines and a condensed copy of the resource directory | SAT 1pm crew doc and the master spreadsheet |
+| [`data/`](data/) | Full CSV export of each tab of the resource spreadsheet | "Ashland Resources for Unhoused People" (Google Sheet) |
+| [`notes/`](notes/) | Team Google Docs converted to Markdown | The team's "Rogue Raise WR Oct 24" Drive folder |
+| [`provider-tools-design/`](provider-tools-design/README.md) | Design docs and a Postgres schema for provider accounts, service reports and Community Pulse publishing in Ashland Daily Help | The `ashland-daily-help-design` Drive folder |
+
+The provider tools design is copied from the Drive originals as of October 24, 2026. The Drive export dropped leading indentation, so the indentation in `schema.sql` was rebuilt by hand. The file is not byte-identical to the original, but it loads cleanly in PGlite (Postgres 17).
+
+Some Drive files are left out of this public repo because they hold personal information: the raw meeting transcript, and the cleaned NAMI community partners sheet (which lists staff contacts).
