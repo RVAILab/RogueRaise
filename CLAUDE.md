@@ -11,7 +11,8 @@ A documentation repo for [Rogue Raise](https://whiterabbitashland.com/rogue-rais
 - `README.md`: what a Rogue Raise is, plus an index of events. Add a row to its Events table for every new event folder.
 - `<YYYY-MM>-<slug>/`: one folder per event, named for the month it starts.
   - `README.md`: the event summary (dates, place, links, problem, tracks, format), drawn from the White Rabbit event page.
-  - `RESOURCES.md`: team links, hotlines and a dated snapshot of the local resource directory.
+  - `RESOURCES.md`: team links, hotlines and a dated, condensed snapshot of the local resource directory.
+  - `data/`: full CSV exports, one per tab of the source spreadsheet, with every column. Keep `RESOURCES.md` in step with them.
 
 ## Sibling repos
 

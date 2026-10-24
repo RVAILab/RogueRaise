@@ -26,6 +26,8 @@ Shared links and reference material collected by the Saturday 1pm crew. Source: 
 
 Snapshot of the master spreadsheet as of October 24, 2026. The listings come from web research only; **no provider has been called yet.** Confirm hours, eligibility and availability before referring anyone. "Confirm" in the last column marks a listing with conflicting or secondhand details.
 
+The tables below are condensed. Every column of every tab, including eligibility and notes, is in [`data/`](data/): [`start-here.csv`](data/start-here.csv), [`resource-directory.csv`](data/resource-directory.csv) and [`needs-confirmation.csv`](data/needs-confirmation.csv).
+
 ### Food and Meals
 
 | Program | Location | Contact | Schedule | Status |
@@ -72,6 +74,12 @@ Snapshot of the master spreadsheet as of October 24, 2026. The listings come fro
 | --- | --- | --- | --- | --- |
 | [211info](https://www.211info.org/contact-us/) | Remote | 211; text 97520 to 898211 | Text Mon–Fri 9am–5pm | Reviewed |
 | [Ashland Library / JCLS Community Resources](https://jcls.org/services/community-resources/) | 410 Siskiyou Blvd | 541-774-6980 | Mon–Thu 10am–6pm; Fri–Sat 10am–5pm | Reviewed |
+| [Ashland School District McKinney-Vento](https://www.ashland.k12.or.us/page/mkv-homeless) | Contact Student Services | 541-482-2438; StudentServices@ashland.k12.or.us | School office hours | Reviewed |
+| [Center for NonProfit Legal Services](https://cnpls.org/) | Apply online | 541-779-7291 (recorded application info) | Application review | Reviewed |
+| [Maslow Project](https://www.maslowproject.com/) | 500 Monroe St, Medford; Ashland outreach | 541-608-6868 | Medford center Mon–Fri 10am–5pm | Reviewed |
+| [OHRA Resource Center](https://ohrahelps.org/get-help/program-services/) | 2350 Ashland St | 541-631-2235 | Mon–Fri 9am–2pm | Reviewed |
+| [Oregon ONE / ODHS](https://www.oregon.gov/odhs/benefits/pages/contact.aspx) | one.oregon.gov | 800-699-9075 | Phone Mon–Fri 7am–6pm | Reviewed |
+| [Rogue Valley Transportation District](https://www.rvtd.org/) | Ashland / Rogue Valley | 541-779-2877 | See live timetable | Reviewed |
 
 ### Needs Confirmation
 
